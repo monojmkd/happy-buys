@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/happy-buys/static/css/main.5962c316.css",
-    "main.js": "/happy-buys/static/js/main.6373c3d8.js",
+    "main.js": "/happy-buys/static/js/main.3222a482.js",
     "static/media/slider-img-1.png": "/happy-buys/static/media/slider-img-1.97ad252fadabf7bae494.png",
     "static/media/slider-img-2.png": "/happy-buys/static/media/slider-img-2.97ad252fadabf7bae494.png",
     "static/media/slider-img-3.png": "/happy-buys/static/media/slider-img-3.97ad252fadabf7bae494.png",
@@ -13,10 +13,10 @@
     "index.html": "/happy-buys/index.html",
     "static/media/spinner.svg": "/happy-buys/static/media/spinner.04726f3b93d0f93f7486acda04ecd614.svg",
     "main.5962c316.css.map": "/happy-buys/static/css/main.5962c316.css.map",
-    "main.6373c3d8.js.map": "/happy-buys/static/js/main.6373c3d8.js.map"
+    "main.3222a482.js.map": "/happy-buys/static/js/main.3222a482.js.map"
   },
   "entrypoints": [
     "static/css/main.5962c316.css",
-    "static/js/main.6373c3d8.js"
+    "static/js/main.3222a482.js"
   ]
 }
